@@ -1,13 +1,13 @@
 {
-  "name": "elasticsearch-elasticsearch",
-  "version": "0.9.3",
-  "source": "https://github.com/elastic/puppet-elasticsearch",
-  "author": "elasticsearch",
+  "name": "aniketmehta-elasticsearch",
+  "version": "1.0.0",
+  "source": "https://github.com/aniketmehta/elasticsearch",
+  "author": "Aniket Mehta",
   "license": "Apache-2.0",
   "summary": "Module for managing and configuring Elasticsearch nodes",
   "description": "Module for managing and configuring Elasticsearch nodes",
-  "project_page": "https://github.com/elastic/puppet-elasticsearch",
-  "issues_url": "https://github.com/elastic/puppet-elasticsearch/issues",
+  "project_page": "https://github.com/aniketmehta/elasticsearch",
+  "issues_url": "https://github.com/aniketmehta/elasticsearch/issues",
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
